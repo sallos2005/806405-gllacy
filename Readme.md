@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Anna Kuznetsova](https://up.htmlacademy.ru/htmlcss/21/user/806405).
-* Наставник: `Неизвестно`.
+* Наставник: [Anna Kuznetsova](https://up.htmlacademy.ru/htmlcss/21/user/806405).
 
 ---
 
